@@ -7,4 +7,7 @@ public class Person {
     public static void heh(){
         Log.i("hhh","hahah");
     }
+    public static void heh02(){
+        Log.i("hhh","hahah");
+    }
 }
