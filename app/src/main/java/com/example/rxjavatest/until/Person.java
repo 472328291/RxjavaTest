@@ -13,4 +13,7 @@ public class Person {
     public static void heh003(){
         Log.i("hhh","hahah");
     }
+    public static void heh004(){
+        Log.i("hhh","hahah");
+    }
 }
